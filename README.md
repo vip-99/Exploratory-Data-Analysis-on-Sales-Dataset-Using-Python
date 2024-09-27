@@ -1,13 +1,13 @@
 # Exploratory-Data-Analysis-on-Sales-Dataset-Using-Python
 This is a brief Data Analysis on Supermarket Sales using Pandas.
 
-# Supermarket_sales_python_project
+## Supermarket_sales_python_project
 
-# 🛒 Supermarket Sales Data Analysis
+## 🛒 Supermarket Sales Data Analysis
 
 This analysis involves a comprehensive exploration of supermarket sales data to derive insights into the performance of various product categories, customer trends, and sales patterns. The project is structured to provide a detailed examination of key factors influencing sales and visualized using informative charts.
 
-## 📊 Project Overview
+### 📊 Project Overview
 The Supermarket Sales Data Analysis focuses on various aspects of the supermarket’s operations, including:
 
 - **Customer Spending Patterns:** Analyzed customer purchases to identify spending behaviors and preferences.
@@ -18,7 +18,7 @@ The Supermarket Sales Data Analysis focuses on various aspects of the supermarke
 - **Sales by Payment Method:** Analysis of payment methods (Cash, Credit, or E-wallet) to understand customer preferences, visualized through comparative charts.
 
 
-## 🔍 Key Findings
+### 🔍 Key Findings
 
 1 **January records the highest sales, while April sees the lowest, indicating a notable seasonal variation in customer purchases.**
 
@@ -46,20 +46,20 @@ The Supermarket Sales Data Analysis focuses on various aspects of the supermarke
 
 
 
-## 🛠️ Tools & Technologies
+### 🛠️ Tools & Technologies
 - **Language:** Python
 - **Libraries:** Pandas, NumPy, Matplotlib, Seaborn
 - **IDE:** Jupyter Notebook
 
-## 🚀 Project Link
+### 🚀 Project Link
 Explore the full project here:
 
-## 📂 Dataset
+### 📂 Dataset
 - **Dataset Link:** [Supermarket Sales Dataset][(https://github.com/ShahRizwan007/SQl_project_ShahRizwan007-SQL_PROJECT_Danny_Diner/blob/main/supermarket_sales.csv)](https://www.kaggle.com/datasets/aungpyaeap/supermarket-sales?select=supermarket_sales+-+Sheet1.csv)
 
-## 📂 Files
+### 📂 Files
 - **Supermarket_Sales_Analysis.ipynb:** [Jupyter Notebook containing data cleaning, analysis, and visualization code.](http://localhost:8888/notebooks/Downloads/Shah%20Rizwan/Python%20data%20analyst%20project/Supermarket%20sales/Supermarket%20sales.ipynb)
 
 
-## Conclusions and Business Recommendations:
+### Conclusions and Business Recommendations:
 - **The analysis concludes with actionable insights, such as which product categories to promote, optimal pricing strategies, and preferred customer segments to target.**
