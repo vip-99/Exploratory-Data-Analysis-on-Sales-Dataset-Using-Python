@@ -20,29 +20,29 @@ The Supermarket Sales Data Analysis focuses on various aspects of the supermarke
 
 ### 🔍 Key Findings
 
-1 **January records the highest sales, while April sees the lowest, indicating a notable seasonal variation in customer purchases.**
+- **January records the highest sales, while April sees the lowest, indicating a notable seasonal variation in customer purchases.**
 
-2 **Female customers exhibit a marginally higher spending pattern than their male counterparts, contributing slightly more to total sales.**
+- **Female customers exhibit a marginally higher spending pattern than their male counterparts, contributing slightly more to total sales.**
 
-3 **Branch C outperforms other branches with a slight lead in overall sales, suggesting its stronger customer base or market presence.**
+- **Branch C outperforms other branches with a slight lead in overall sales, suggesting its stronger customer base or market presence.**
 
-4 **Naypyitaw City tops both sales and gross margins among all cities, highlighting its strong economic activity and customer demand.**
+- **Naypyitaw City tops both sales and gross margins among all cities, highlighting its strong economic activity and customer demand.**
 
-5 **Membership customers engage in slightly more transactions, reflecting their higher brand loyalty and preference for repeat purchases.**
+- **Membership customers engage in slightly more transactions, reflecting their higher brand loyalty and preference for repeat purchases.**
 
-6 **Electronic accessories generate the most sales, while Food & Beverages achieve the highest gross margin, showing category-specific profitability.**
+- **Electronic accessories generate the most sales, while Food & Beverages achieve the highest gross margin, showing category-specific profitability.**
 
-7 **Fashion accessories receive the highest customer ratings, while Health and Beauty products garner the lowest, indicating varying satisfaction levels across categories.**
+- **Fashion accessories receive the highest customer ratings, while Health and Beauty products garner the lowest, indicating varying satisfaction levels across categories.**
 
-8 **The average rating peaks in the Food & Beverages category, suggesting strong customer satisfaction and quality perception in this segment.**
+- **The average rating peaks in the Food & Beverages category, suggesting strong customer satisfaction and quality perception in this segment.**
 
-9 **Credit card payments are marginally less popular than cash and e-wallet options, showing a preference for quicker or digital transactions.**
+- **Credit card payments are marginally less popular than cash and e-wallet options, showing a preference for quicker or digital transactions.**
 
-10 **Sales experience a peak in January compared to other months, suggesting a trend driven by seasonal or promotional factors.**
+- **Sales experience a peak in January compared to other months, suggesting a trend driven by seasonal or promotional factors.**
 
-11 **Female customers use payment methods more frequently than males, highlighting gender-based preferences in transaction behavior.**
+- **Female customers use payment methods more frequently than males, highlighting gender-based preferences in transaction behavior.**
 
-12 **Sales trends show minor fluctuations throughout the year, with periods of incremental rises and declines, indicating steady market dynamics.**
+- **Sales trends show minor fluctuations throughout the year, with periods of incremental rises and declines, indicating steady market dynamics.**
 
 
 
