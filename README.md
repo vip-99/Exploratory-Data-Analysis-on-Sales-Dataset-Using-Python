@@ -54,11 +54,10 @@ The Supermarket Sales Data Analysis focuses on various aspects of the supermarke
 ### 🚀 Project Link
 Explore the full project here:
 
-### 📂 Dataset
-- **Dataset Link:** [Supermarket Sales Dataset][(https://github.com/ShahRizwan007/SQl_project_ShahRizwan007-SQL_PROJECT_Danny_Diner/blob/main/supermarket_sales.csv)](https://www.kaggle.com/datasets/aungpyaeap/supermarket-sales?select=supermarket_sales+-+Sheet1.csv)
 
 ### 📂 Files
-- **Supermarket_Sales_Analysis.ipynb:** [Jupyter Notebook containing data cleaning, analysis, and visualization code.](http://localhost:8888/notebooks/Downloads/Shah%20Rizwan/Python%20data%20analyst%20project/Supermarket%20sales/Supermarket%20sales.ipynb)
+- **Supermarket_Sales_Analysis.ipynb:** [Jupyter Notebook containing data cleaning, analysis, and visualization code.]
+- (https://github.com/vip-99/Exploratory-Data-Analysis-on-Sales-Dataset-Using-Python/blob/main/EDA%20on%20Super%20Market%20Sales.ipynb)
 
 
 ### Conclusions and Business Recommendations:
